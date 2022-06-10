@@ -1,5 +1,5 @@
 ---
-- hosts: 172.31.40.203
+- hosts: 172.31.1.57
   tasks:
     - debug:
         msg: This is task one
